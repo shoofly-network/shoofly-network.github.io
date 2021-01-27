@@ -7,4 +7,7 @@
 5. `teavar.py`: Python implementation of the TeaVAR algorithm from SIGCOMM 2019.
 6. `shooflyv2.py`: Main driver program. Run this program to build k-wise failure resilient and TeaVAR failure resilient Shoofly topologies.
 7. `shoofly.py`: Main driver program for all other network topologies (made available by previous work, TeaVAR and SMORE).
+8. `max_flow_analysis.py`: Post processing analysis on Shoofly proposed topologies.
+9. `evaluate_failure_resistent_topology.py`: Post processing analysis on Shoofly proposed topologies.
+10. `feasible_failure_scenarios.py`: Enumerating the feasible failure scenarios.
 
